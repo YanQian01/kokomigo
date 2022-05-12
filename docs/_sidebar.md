@@ -1,6 +1,6 @@
 - kokomi-bot 帮助文档
     - [kokomi 简介](zh-cn/README.md)
-    - [kokomi 阅读注意事项](zh-cn/README.md)
+    - [文档阅读事项](zh-cn/README.md)
     
 - kokomi-Yunzai服务板块
     - [板块基本介绍](zh-cn/C++/base.md)

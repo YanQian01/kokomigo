@@ -1,7 +1,9 @@
 # SAGIRI 功能一览
-这是一段关于yunzai bot 的命令展示区
+这是一段关于SAGIRI 模块的命令展示区
 
 ## SAGIRI本体命令
+[官方中文文档](https://sagiri-kawaii.github.io/sagiri-bot/functions/handlers/) |
+内容将在未来迁移
 ```
 原神抽卡
 原神资源点查询

@@ -2,6 +2,8 @@
 这是一段关于amiya bot 的命令展示区
 
 ## Amiya本体命令
+[官方中文文档](https://www.amiyabot.com/blog/function.html) |
+内容将在未来迁移
 ```
 小游戏
 群管理员功能

@@ -1,7 +1,9 @@
 # 观赏鱼命令大全
-这是一段关于观赏鱼命令介绍，并不会出现在左边的目录
+这是一段关于观赏鱼命令介绍
 
-## 编写观赏鱼命令函数
+## 观赏鱼基础命令
+[官方中文文档](https://richeyjang.github.io/PaimengBot/use/list/) |
+内容将在未来迁移
 ```
 ps.行尾括号内为插件Key，对应着配置文件config-plugin.yaml中各个插件的根配置项key
 
@@ -63,3 +65,5 @@ ps.行尾括号内为插件Key，对应着配置文件config-plugin.yaml中各�
  Pixiv排行榜 (pixiv_rank)
  Pixiv搜索 (pixiv_query)
 ```
+### 图片补充
+等待完善

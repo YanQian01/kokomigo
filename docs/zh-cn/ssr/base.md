@@ -1,6 +1,5 @@
 # SAGIRI简介
-这是一段关于SAGIRI基础介绍，并不会出现在左边的目录
-
+这是一段关于SAGIRI基础介绍
 ## SAGIRI官方介绍
 ```
 基于Sqlalchemy的异步ORM
