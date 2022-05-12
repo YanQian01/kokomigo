@@ -20,7 +20,7 @@
 #角色养成
 ```
 ### 命令图片
-![](/style/yunzai.png)
+![](style/yunzai.png)
 
 
 
@@ -32,7 +32,7 @@
 #角色面板
 ```
 ### 命令图片
-![](/style/miaomiao.png)
+![](style/miaomiao.png)
 ## yunzai bot 插件命令
 
 ```
@@ -42,4 +42,4 @@
 持续更新中...
 ```
 ### 命令图片
-![](/style/yunzaichajian.png)
+![](style/yunzaichajian.png)
