@@ -15,15 +15,19 @@
 - kokomi-SAGIRI服务板块
     - [板块基本介绍](zh-cn/ssr/base.md)
     - [板块基础命令](zh-cn/ssr/func.md)
+    - [板块官方进阶](zh-cn/ssr/gfgn.md)
+    - [板块官方管理](zh-cn/ssr/manage.md)
     - [常见使用误区](zh-cn/ssr/object.md)
 
 - kokomi-DD订阅服务板块
     - [板块基本介绍](zh-cn/DD/base.md)
     - [板块基础命令](zh-cn/DD/func.md)
+    - [官方进阶命令](zh-cn/DD/shiyong.md)
     - [常见使用误区](zh-cn/DD/object.md)
 
 - kokomi-Amiya服务板块
     - [板块基本介绍](zh-cn/amiya/base.md)
     - [板块基础命令](zh-cn/amiya/func.md)
+    - [官方进阶命令](zh-cn/amiya/gfwd.md)
     - [常见使用误区](zh-cn/amiya/object.md)
 
