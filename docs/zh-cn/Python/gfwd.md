@@ -1,9 +1,5 @@
 # 命令图片具体说明
 
-> [!TIP]
-> 注意：您的图片可能会裂开
->
-> 命令图片在非科学环境下可能无法显示
 
 
 > [!WARNING]
@@ -11,6 +7,10 @@
 >
 > 部分冲突命令不给予展示
 
+> [!TIP]
+> 注意：您的图片可能会裂开
+>
+> 命令图片在非科学环境下可能无法显示
 
 ## 总帮助
 ![image](https://raw.githubusercontent.com/YanQian01/kokomigo/main/docs/style/paimeng/pmhelp.png)
@@ -20,36 +20,41 @@
 
 
 ### 复读
+```
 复读 内容
-
+```
 ### 好友群组管理
+```
 超级管理员专用
-
+```
 ### 定时提醒
 ![image](https://raw.githubusercontent.com/YanQian01/kokomigo/main/docs/style/paimeng/dstx.png)
 
 
 ### 帮助
+```
 没啥用
-
+```
 ### 昵称
 ![image](https://raw.githubusercontent.com/YanQian01/kokomigo/main/docs/style/paimeng/nc.png)
 
 ### 点歌
+```
 >点歌 歌名
 
 >可多个关键词 需要空格分离关键词
-
+```
 ### 签到与财富
-
+```
 没啥用
-
+```
 ### 统计
 ![image](https://raw.githubusercontent.com/YanQian01/kokomigo/main/docs/style/paimeng/tj.png)
 
 ### 聊天
+```
 没啥用
-
+```
 ### 联系管理员
 ![image](https://raw.githubusercontent.com/YanQian01/kokomigo/main/docs/style/paimeng/lxgly.png)
 
@@ -59,10 +64,11 @@
 
 
 ### 随机
+```
 >随机 内容1 内容2 3 4 ...
 
 >注意空格
-
+```
 
 ### 好康的
 ![image](https://raw.githubusercontent.com/YanQian01/kokomigo/main/docs/style/paimeng/qt/hkd.png)
@@ -82,14 +88,17 @@
 
 
 ### 搜梗
+```
 搜梗 内容
-
+```
 ### 新冠疫情查询
+```
 新冠疫情 北京
-
+```
 ### 看图识番
+```
 识番＋你的图片
-
+```
 ### 短网址还原
 ![image](https://raw.githubusercontent.com/YanQian01/kokomigo/main/docs/style/paimeng/qt/dwzhy.png)
 
@@ -99,6 +108,7 @@
 
 
 ### 翻译
+```
 >把英语翻译成中文 内容
 
 >翻译(插件Key: translate)
@@ -109,18 +119,23 @@
 >此外，若管理员开启了百度API,可以做到例如:
 >文言文翻译成西语尔食之:将文言文"尔食之"翻译成西班牙语
 >( "翻译成"的左右两侧可以是任意常见语种
+```
 
 ### 猜成语
+```
 直接发送：猜成语
-
+```
 ### 群欢迎消息
+```
 模块冲突暂不开放
+```
 
 ### 撤回
 ![image](https://raw.githubusercontent.com/YanQian01/kokomigo/main/docs/style/paimeng/qt/ch.png)
 
 
 ### 群管理
+```
 >[5]群管理(插件Key: admin )
 >用法: (需要将我设为群管理员)
 >踢了[QQ号或@]:并在后续询问中答复"是",则将指定QQ号或@的人踢出本群
@@ -138,6 +153,7 @@
 >当前拉黑:显示当前被拉黑的用户列表
 >PS:超级用户可以在私聊中调用"拉黑"和"取消拉黑"功能
 >PPS:踢了、禁言、拉黑不会对机器人本身及超级用户生效
+```
 
 
 ### 关键词撤回
