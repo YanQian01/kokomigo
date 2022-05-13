@@ -10,6 +10,7 @@
 - kokomi-观赏鱼服务板块
     - [板块基本介绍](zh-cn/Python/base.md)
     - [板块基础命令](zh-cn/Python/func.md)
+    - [板块官方进阶](zh-cn/Python/gfwd.md)
     - [常见使用误区](zh-cn/Python/object.md)
 
 - kokomi-SAGIRI服务板块

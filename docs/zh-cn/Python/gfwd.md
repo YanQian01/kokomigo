@@ -15,33 +15,56 @@
 ![image](https://raw.githubusercontent.com/YanQian01/kokomigo/main/docs/style/paimeng/pmhelp.png)
 
 ### 功能开关
+![image](https://raw.githubusercontent.com/YanQian01/kokomigo/main/docs/style/paimeng/gnkg.png)
+
 
 ### 复读
+复读 内容
 
 ### 好友群组管理
+超级管理员专用
 
 ### 定时提醒
+![image](https://raw.githubusercontent.com/YanQian01/kokomigo/main/docs/style/paimeng/dstx.png)
+
 
 ### 帮助
+没啥用
 
 ### 昵称
+![image](https://raw.githubusercontent.com/YanQian01/kokomigo/main/docs/style/paimeng/nc.png)
 
 ### 点歌
+>点歌 歌名
+
+>可多个关键词 需要空格分离关键词
 
 ### 签到与财富
 
+没啥用
+
 ### 统计
+![image](https://raw.githubusercontent.com/YanQian01/kokomigo/main/docs/style/paimeng/tj.png)
 
 ### 聊天
+没啥用
 
 ### 联系管理员
+![image](https://raw.githubusercontent.com/YanQian01/kokomigo/main/docs/style/paimeng/lxgly.png)
+
 
 ### 自检与清理
+![image](https://raw.githubusercontent.com/YanQian01/kokomigo/main/docs/style/paimeng/zjyql.png)
+
 
 ### 随机
+>随机 内容1 内容2 3 4 ...
+
+>注意空格
 
 
 ### 好康的
+
 
 ### pixiv排行榜
 
