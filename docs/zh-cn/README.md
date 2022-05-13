@@ -3,7 +3,7 @@
 文档技术支持
 ---
 
--  **[bilibili 主页](https://www.bilibili.com)** | [Github地址](https://gitee.com/mocha-demo)
+-  **[bilibili 主页](https://www.bilibili.com/video/BV14U4y1x7jH?share_source=copy_web)** | [Github地址](https://gitee.com/mocha-demo)
 
 ## 下文为你在阅读kokomi帮助文档时可能会遇到的提示：
 ### `请认真阅读以避免带来不必要的麻烦`
