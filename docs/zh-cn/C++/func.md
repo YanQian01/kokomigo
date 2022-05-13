@@ -20,8 +20,8 @@
 #角色养成
 ```
 ### 命令图片
-![ ](style/yunzai.png)
-![](style/yunzai.png)
+![ ](yunzai.png)
+![](yunzai.png)
 
 
 
