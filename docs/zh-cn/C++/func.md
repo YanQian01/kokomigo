@@ -20,7 +20,8 @@
 #角色养成
 ```
 ### 命令图片
-![](/style/yunzai.png)
+![ ](style/yunzai.png)
+![](style/yunzai.png)
 
 
 
@@ -32,7 +33,7 @@
 #角色面板
 ```
 ### 命令图片
-![ ](/style/miaomiao.png)
+![image](http://wp.wadg.pro/view.php/ae8defa09fc6b6849ee7bb8c613122da.png)
 ## yunzai bot 插件命令
 
 ```
@@ -42,4 +43,4 @@
 持续更新中...
 ```
 ### 命令图片
-![ ](/style/yunzaichajian.png)
+![image](style/kokomi.png)
