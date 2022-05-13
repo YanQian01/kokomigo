@@ -1,6 +1,12 @@
 # 观赏鱼命令大全
 这是一段关于观赏鱼命令介绍
 
+> [!TIP]
+> 注意：您的图片可能会裂开
+>
+> 命令图片在非科学环境下可能无法显示
+
+
 ## 观赏鱼基础命令
 [官方中文文档](https://richeyjang.github.io/PaimengBot/use/list/) |
 内容将在未来迁移
@@ -16,6 +22,9 @@ ps.行尾括号内为插件Key，对应着配置文件config-plugin.yaml中各�
  用户昵称系统 (nickname)
  签到与财富 (sc)
  ```
+ ### 命令图片具体说明
+
+
  ```
 一般功能
  聊天\自定义问答 (chat)
@@ -27,6 +36,8 @@ ps.行尾括号内为插件Key，对应着配置文件config-plugin.yaml中各�
  点歌 (music)
  随机\随机数 (random)
  ```
+ ### 命令图片具体说明
+
  ```
 原神相关
  今日可肝素材查询 (genshin_resource)
@@ -35,6 +46,7 @@ ps.行尾括号内为插件Key，对应着配置文件config-plugin.yaml中各�
  米游社签到 (genshin_sign)
  原神便笺查询 (genshin_query)
  ```
+### 命令图片具体说明
  ```
 实用工具
  B站订阅、自动推送 (bilibili)
@@ -46,6 +58,7 @@ ps.行尾括号内为插件Key，对应着配置文件config-plugin.yaml中各�
  短链接还原 (short_url)
  短链接生成(防止滥用，暂不提供)
  ```
+ ### 命令图片具体说明
  ```
 群功能
  群管理:快捷禁言/踢人 (admin)
@@ -53,17 +66,28 @@ ps.行尾括号内为插件Key，对应着配置文件config-plugin.yaml中各�
  设置入群欢迎 (welcome)
  关键词撤回 (keyword)
  ```
+ ### 命令图片具体说明
  ```
 小游戏
  看图猜成语 (idioms)
  谁是卧底
  文字RPG
  ```
+ ### 命令图片具体说明
  ```
 好康的
  涩图 (pixiv)
  Pixiv排行榜 (pixiv_rank)
  Pixiv搜索 (pixiv_query)
 ```
-### 图片补充
+### 命令图片具体说明
+
+
+
+
+
+
+
+
+
 等待完善
